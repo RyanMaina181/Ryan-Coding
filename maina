@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+    ul.a{
+    list-style-type: circle;
+    
+    }
+    ul.b{
+    list-style-type: square
+
+    }
+    ol.c{
+        list-style-type: upper-roman;
+
+    }
+    ol.d{
+        list-style-type: lower-alpha;
+
+    }
+</style>
+</head>
+<body>
+
+    <h2>the list-style-type property</h2>
+    <p>example of unordrederd  list</p>
+    <ul class="a">
+    <li>coffe</li>
+    <li>tea<li>
+    <li>sprite</li>
+    </ul>
+
+    <ul class="b">
+        <li>coffe</li>
+        <li>tea</li>
+        <li>miniute maid</li>
+
+
+    </ul>
+    <ol class="c">
+        <li>coffe</li>
+        <li>tea</li>
+        <li>coca cola</li>
+    </ol>
+</body>
+
+</html>

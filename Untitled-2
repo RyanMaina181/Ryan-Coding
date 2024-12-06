@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+        <title>font awseame luns</title>
+    <head>
+
+    </head>
+    <style >
+        div{
+background-color: rgb(255, 240, 240);
+width: 300px;
+border: 15px salmon; 
+padding: 50px;
+margin: 20px;
+body{
+
+}
+
+color:hsla(0, 0%, 0%, 0.187)
+background-color: aliceblue;
+
+    text-align-last: left;
+  font-style
+letter-spacing: 15px;
+         font-family: "sophia",sans serif;
+text ::shadow
+
+
+h1{
+    color: blanchedalmond;
+    background-color: azure;
+
+}
+
+
+
+
+
+ }
+   </style> 
+   <body>
+    <h2>demonstrating the box model</h2>
+    <p>the css box model  is esentialy a box that wrapsarodnd every   html element 
+     it consists of border s ,padding margins the  atiyal content.</p>
+     <div> this  text is the contentof the box.we have added padd</div>
+     <i class="fas fa-cloud"></i>
+     <i class="fas fa-cloud"></i>
+     <i class="fas fa-cloud"></i>
+     <i class="fas fa-cloud"></i>
+     <i class="fas fa-cloud"></i>
+     <i class="fas fa-cloud"></i>
+     <i class="fas fa-cloud"></i>
+
+     
+   </body>
+
+</html>
+
+
+

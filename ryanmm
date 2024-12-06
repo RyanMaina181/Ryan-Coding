@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<style>
+a:link, a:visited{
+  background-color: bisque;
+  color: beige;
+  border: 2px seagreen;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+ } 
+ a:hover,:active{
+    background-color: aqua;
+    color: red;
+ }
+ </style>
+ </head>
+ <body>
+    <h2>link button</h2>
+   <a href="default.asp" target="_blank">this is a link</a>
+ </body>
+</html>
